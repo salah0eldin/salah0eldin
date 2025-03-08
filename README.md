@@ -1,82 +1,108 @@
-# Hi, I’m Salah-Eldin Hassen
-**Embedded Systems Engineer | Full-Stack Developer | Robotics Instructor | AI Enthusiast**
+<h1 align="center">👋 Hi, I’m Salah-Eldin Hassen</h1>  
+<h3 align="center">🚀 Software Engineer | Embedded Systems | FPGA & Digital Design | AI & Robotics</h3>  
 
 ---
 
-## About Me  
-I’m a passionate developer and instructor based in Giza, Egypt, specializing in embedded systems, robotics, and full-stack development. My expertise spans C++, Python, Rust, and web technologies like HTML5, CSS3, and Laravel. I’m also deeply involved in robotics, AI model optimization, and automotive protocols.
+## 🚀 About Me  
+I’m a **Software Engineer** passionate about **embedded systems, FPGA design, and AI-driven development**. My expertise spans **C/C++, Rust, Python**, and **hardware/software co-design**, with a strong focus on **real-time systems, digital signal processing, and automotive protocols (SOME/IP, AUTOSAR)**.  
 
-Currently pursuing advanced diplomas in Embedded Systems and Automotive Protocols (ARM Cortex-M4, AUTOSAR, SOME/IP).
+🎓 **Education:** Cairo University – Faculty of Engineering *(Electronics & Electrical Communication Engineering)*  
 
-🎓 **Education:**  
-Cairo University Faculty of Engineering, Department of Electronics and Electrical Communication Engineering (CUFE EECE).
-
----
-
-## Skills  
-
-### Software:  
-- C / C++ - OOP – MATLAB – Assembly – Rust – Data Structures – Algorithms – Python – Automation – Scripting.  
-- Kali Nethunter – Ubuntu – Debian – CentOS – AI Tools – Qt – Git & GitHub.  
-- HTML5 – CSS3 – JavaScript – Bootstrap – jQuery – Laravel – SQL – LaTeX.  
-
-### Embedded:  
-- Atmega16/32 (AVR) – PIC18F2XK20/4XK20 (PIC) – STM32.  
-- Fundamentals of Embedded Systems – ARM Cortex-M Architecture.  
-- Embedded C – FreeRTOS – SOME/IP.  
-
-### Tools:  
-- Visual Studio – Eclipse – Cube IDE – MPLAB Code Configurator – MATLAB – Proteus – Intel 8086 Emulator.  
-- Cadence – Multisim – Modelsim – Arduino IDE – QT Creator – DataGrip – Altium.  
+💡 I enjoy working on **complex embedded systems**, **digital hardware**, and **AI-based automation**.  
+🏆 **Achievements:** First Place in Robotics Competitions, ECPC Contestant, NASA Hackathon Participant.  
+🌍 Open-source enthusiast, always learning & building!  
 
 ---
 
-## Notable Projects  
+## 🛠️ Tech Stack  
 
-### **Workshops System (Laravel-Based Project)**  
-Developed a web-based workshops management system using Laravel. The system allows users to register for workshops, view schedules, and manage attendance. It includes features like user authentication, role-based access control, and real-time notifications.  
-**Key Elements:** Laravel, PHP, MySQL, Blade Templates, Authentication, Role Management.  
+### **Languages**  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
----
+### **Embedded Systems & FPGA**  
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0099CC?style=flat&logo=freertos&logoColor=white)  
+![Verilog](https://img.shields.io/badge/Verilog-FE5000?style=flat)  
+![VHDL](https://img.shields.io/badge/VHDL-8F4E8B?style=flat)  
+![FPGA](https://img.shields.io/badge/FPGA-EB0028?style=flat&logo=xilinx&logoColor=white)  
 
-### **Concurrent Rust TCP Server with Test Suite Optimization**  
-Developed a multithreaded TCP server in Rust, transitioning from a buggy single-threaded implementation. Enhanced client handling with Protocol Buffers for structured communication. Optimized the test suite by resolving port conflicts using port isolation and serial execution strategies.  
-**Key Elements:** Rust, Multithreading, Protocol Buffers, Thread Safety, Non-blocking I/O.  
-
----
-
-### **FreeRTOS-Based Dual Microcontroller-Based Door Locker Security System**  
-Developed a door security system using two microcontrollers with FreeRTOS for task management. Designed to enhance access control through password authentication, I2C-based EEPROM storage, and automated door mechanisms.  
-**Key Elements:** ATMega32, I2C, USART, EEPROM, FreeRTOS, Semaphores, Queue, PIR Sensor, H-Bridge.  
-
----
-
-### **Advanced Image Editor with Qt and OpenCV**  
-Built a C++ image editor with Qt and OpenCV, featuring cropping, resizing, filters (blur, grayscale, sharpen), and dark mode UI. Supported drag-and-drop image loading and real-time editing.  
-**Key Elements:** C++, OpenCV, Qt.  
-
-[View More Projects](https://github.com/salah0eldin?tab=repositories)
+### **Tools & IDEs**  
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)  
+![Vivado](https://img.shields.io/badge/Vivado-FFB500?style=flat&logo=xilinx&logoColor=white)  
+![QuestaSim](https://img.shields.io/badge/QuestaSim-1A5CFF?style=flat)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 
 ---
 
-## Courses  
+## 🔥 Notable Projects  
 
-- **Advanced Embedded Diploma:** ARM Cortex-M4 Processor, Embedded Systems Development, Bootloaders, Automotive Protocols, AUTOSAR, MISRA C Standards.  
-- **SOME/IP Workshop:** Hands-on experience in SOME/IP protocol for networked embedded systems.  
-- **Linux Fundamentals:** File management, shell scripting, process control, networking, SSH, and web server setup.  
+### 🔹 **Concurrent Rust TCP Server**  
+Built a **high-performance multithreaded TCP server in Rust**, transitioning from a buggy single-threaded model. Optimized **Protocol Buffers-based communication** and improved the test suite with **port isolation strategies**.  
+📌 **Key Tech:** Rust, Multithreading, Protocol Buffers, Thread Safety  
+🔗 **[View Project](https://github.com/salah0eldin?tab=repositories)**  
+
+### 🔹 **FPGA-Based SPI Slave Interface**  
+Designed and implemented an **SPI Slave Interface** on an FPGA, featuring both an **optimized FSM-based design** and an **enhanced debug-core-integrated version**.  
+📌 **Key Tech:** Verilog, SPI, Single-Port RAM, QuestaSim, Vivado  
+🔗 **[View Project](https://github.com/salah0eldin?tab=repositories)**  
+
+### 🔹 **FreeRTOS-Based Dual MCU Security System**  
+Developed a **secure access control system** using **two MCUs and FreeRTOS**, integrating **password authentication, I2C-based EEPROM storage, and automated door mechanisms**.  
+📌 **Key Tech:** ATMega32, FreeRTOS, I2C, EEPROM, PIR Sensor, H-Bridge  
+🔗 **[View Project](https://github.com/salah0eldin?tab=repositories)**  
+
+### 🔹 **Advanced Image Editor (C++ & OpenCV)**  
+Built a **feature-rich image editor** with **cropping, resizing, filtering (blur, grayscale, sharpen), and dark mode UI**.  
+📌 **Key Tech:** C++, OpenCV, Qt  
+🔗 **[View Project](https://github.com/salah0eldin?tab=repositories)**  
 
 ---
 
-## Extracurricular Activities  
+## 🎓 Courses & Certifications  
 
-- First place in Robotics competitions at Beta Academy (Smart Garage & Robot Car Line Follower & Maze Solver).  
-- Fifth place at TCCD competition with a math project.  
-- Participant in NASA Hackathon 2023, creating a website for the scientific research community.  
-- ECPC Contestant 2022 & 2023.  
+📌 **Advanced Embedded Diploma** *(ARM Cortex-M4, AUTOSAR, FreeRTOS, Bootloader Design, CAN, LIN, SOME/IP)*  
+📌 **Digital Verification Course** *(UVM, QuestaSim, SystemVerilog Assertions, Formal Verification)*  
+📌 **SOME/IP Workshop** *(Automotive Middleware & Network Communication)*  
+📌 **Linux Fundamentals** *(Shell Scripting, Process Management, Networking, SSH)*  
 
 ---
 
-## Let’s Connect!  
-Feel free to reach out via:  
-🔗 [LinkedIn](https://www.linkedin.com/in/salah-eldin-hassen-5bba10250/)  
-📧 [salah1423161@gmail.com](mailto:salah1423161@gmail.com)
+## 🏆 Extracurricular Activities  
+
+🏅 **First Place** – Robotics Competitions *(Smart Garage, Line Follower, Maze Solver)*  
+🏅 **NASA Hackathon 2023** – Built a web platform for **scientific research collaboration**  
+🏅 **ECPC Contestant** – 2022 & 2023  
+🏅 **TCCD Competition** – Fifth place with an advanced **mathematical project**  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salah0eldin&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salah0eldin&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📄 My CV  
+
+📌 **You can view my latest CV in my GitHub repository here:**  
+🔗 **[CV Repository](https://github.com/salah0eldin/cv)**  
+
+---
+
+## 📩 Let’s Connect!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salah-eldin-hassen-5bba10250/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:salah1423161@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/salah0eldin)  
+
+---
+
