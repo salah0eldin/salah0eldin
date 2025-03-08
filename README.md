@@ -17,23 +17,13 @@ I’m a **Software Engineer** passionate about **embedded systems, FPGA design, 
 ## 🛠️ Tech Stack  
 
 ### **Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
 ### **Embedded Systems & FPGA**  
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0099CC?style=flat&logo=freertos&logoColor=white)  
-![Verilog](https://img.shields.io/badge/Verilog-FE5000?style=flat)  
-![VHDL](https://img.shields.io/badge/VHDL-8F4E8B?style=flat)  
-![FPGA](https://img.shields.io/badge/FPGA-EB0028?style=flat&logo=xilinx&logoColor=white)  
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0099CC?style=flat&logo=freertos&logoColor=white)  ![Verilog](https://img.shields.io/badge/Verilog-FE5000?style=flat)  ![VHDL](https://img.shields.io/badge/VHDL-8F4E8B?style=flat)  ![FPGA](https://img.shields.io/badge/FPGA-EB0028?style=flat&logo=xilinx&logoColor=white)  
 
 ### **Tools & IDEs**  
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)  
-![Vivado](https://img.shields.io/badge/Vivado-FFB500?style=flat&logo=xilinx&logoColor=white)  
-![QuestaSim](https://img.shields.io/badge/QuestaSim-1A5CFF?style=flat)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)  ![Vivado](https://img.shields.io/badge/Vivado-FFB500?style=flat&logo=xilinx&logoColor=white)  ![QuestaSim](https://img.shields.io/badge/QuestaSim-1A5CFF?style=flat)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 
 ---
 
