@@ -69,18 +69,6 @@ Built a **feature-rich image editor** with **cropping, resizing, filtering (blur
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salah0eldin&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salah0eldin&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📄 My CV  
 
 📌 **You can view my latest CV in my GitHub repository here:**  
