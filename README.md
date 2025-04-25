@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me  
-I’m a **Software Engineer** passionate about **embedded systems, FPGA design, and AI-driven development**. My expertise spans **C/C++, Rust, Python**, and **hardware/software co-design**, with a strong focus on **real-time systems, digital signal processing, and automotive protocols (SOME/IP, AUTOSAR)**.  
+I’m a **Software Engineer** passionate about **embedded systems, FPGA design, and AI-driven development**. My expertise spans **C/C++, Rust, Python**, and **hardware/software co-design**, with a strong focus on **real-time systems, digital signal processing, and automotive protocols (CAN, SOME/IP)**.  
 
 🎓 **Education:** Cairo University – Faculty of Engineering *(Electronics & Electrical Communication Engineering)*  
 
