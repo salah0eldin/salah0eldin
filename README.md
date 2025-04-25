@@ -8,7 +8,7 @@ I’m a **Software Engineer** passionate about **embedded systems, FPGA design, 
 
 🎓 **Education:** Cairo University – Faculty of Engineering *(Electronics & Electrical Communication Engineering)*  
 
-💡 I enjoy working on **complex embedded systems**, **digital hardware**, and **AI-based automation**.  
+💡 I enjoy working on **complex embedded systems** and **digital hardware**.  
 🏆 **Achievements:** First Place in Robotics Competitions, ECPC Contestant, NASA Hackathon Participant.  
 🌍 Open-source enthusiast, always learning & building!  
 
